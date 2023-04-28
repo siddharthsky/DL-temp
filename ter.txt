@@ -1,6 +1,0 @@
-This is a trans-disciplinary metric that is used in many different departments – and especially important for the customer service. 
-It measures the likelihood of customers to recommend a product or services to their friends and relatives. 
-The question simply asks to grade, from 0 to 10, how likely they would recommend the brand. 
-Their answers should then be classified as follows: 0-6 are detractors, 7-8 are passives, and 9-10 are promoters. 
-You can then evaluate your score by subtracting the percentage of detractors to the percentage of promoters. 
-Set yourself a target you want to reach and measures your NPS on a regular basis to be sure you are not falling back.</p>
