@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ENC data
+/dataX
+/data_temp_preprocessing
